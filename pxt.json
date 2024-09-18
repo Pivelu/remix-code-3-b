@@ -1,5 +1,5 @@
 {
-    "name": "remix code 3 b",
+    "name": "Aula35e36_Napratica_21",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.28",
+        "target": "7.0.42",
         "targetId": "microbit"
     },
     "supportedTargets": [
